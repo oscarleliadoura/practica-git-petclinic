@@ -16,6 +16,7 @@
 
 package org.springframework.samples.petclinic;
 // Cambio hecho en local por Oscar Laiño Carril
+// Este cambio lo voy a deshacer con git revert
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
